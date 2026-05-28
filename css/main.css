@@ -1,6 +1,6 @@
 @font-face {
     font-family: custom;
-    scr: url('assets/Noir_medium.otf');
+    scr: url('assets/noir-medium.otf');
 }
 .animated-rainbow {
     font-size: 42px;
